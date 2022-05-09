@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ahmed Zougari</h1>
 
-- 👨‍💻  I'm Frontend Developer
+- 👨‍💻  Frontend Developer
 - 🌍  I'm based in Marrakech
 - 🖥️  Check out my [Portfolio](http://ahmedzougari.netlify.app/)
 - 💬 Ask me about **_CSS_** & **_JavaScript_**
