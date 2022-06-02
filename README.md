@@ -35,7 +35,7 @@
 </p>
 
 <details>
-  <summary><img src="https://c.tenor.com/9ER-sDwv7jIAAAAi/arrow-yellow-arrow.gif" width="30px"> General Stats </summary>
+  <summary><img src="https://c.tenor.com/9ER-sDwv7jIAAAAi/arrow-yellow-arrow.gif" width="30"> General Stats </summary>
   
   <a href="http://www.github.com/zougari47"><img src="https://github-readme-stats.vercel.app/api?username=zougari47&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="zougari47's GitHub stats" /></a>
 
