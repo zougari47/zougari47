@@ -2,7 +2,7 @@
 
 - 👨‍💻  Frontend Developer
 - 🌍  I'm based in Marrakech
-- 🖥️  Check out my [Portfolio](http://ahmedzougari.netlify.app/)
+- 🖥️  Vist my [Portfolio](http://ahmedzougari.netlify.app/)
 - 💬 Ask me about **_CSS_** & **_JavaScript_**
 - ✉️  You can reach me by [email](mailto:zougarii.ahmed@gamil.com)
 - 🧠  I'm learning Node JS
@@ -35,7 +35,7 @@
 </p>
 
 <details>
-  <summary><img src="https://c.tenor.com/9ER-sDwv7jIAAAAi/arrow-yellow-arrow.gif" width="30"> General Stats </summary>
+  <summary>General Stats</summary>
   
   <a href="http://www.github.com/zougari47"><img src="https://github-readme-stats.vercel.app/api?username=zougari47&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="zougari47's GitHub stats" /></a>
 
@@ -45,5 +45,5 @@
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/zougari47/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zougari47&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/zougari47/quiz-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zougari47&repo=quiz-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/zougari47/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zougari47&repo=portfolio-template&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/zougari47/quiz-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zougari47&repo=quiz-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 </details>
