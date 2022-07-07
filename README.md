@@ -2,9 +2,9 @@
 
 - 👨‍💻  Frontend Developer
 - 🌍  I'm based in Marrakech
-- 🖥️  Vist my [Portfolio](http://ahmedzougari.netlify.app/)
+- 🖥️  Vist my [Portfolio](http://ahmedzougari.com)
 - 💬 Ask me about **_CSS_** & **_JavaScript_**
-- ✉️  You can reach me by [email](mailto:zougarii.ahmed@gamil.com)
+- ✉️  You can reach me by [email](mailto:hello@ahmedzougari.com)
 - 🧠  I'm learning Node JS
 
 <h3 align="left">Skills & Tools:</h3>
