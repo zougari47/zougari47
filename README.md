@@ -1,6 +1,6 @@
 <h1 align="center">YOO <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> WELCOME TO MY LABORATORY 🧪✨</h1>
 
-<img src="./assets/octocat.png" align="right" width="275" />
+<img src="https://i.postimg.cc/q7ggNG0h/octocat.png" align="right" width="275" />
 
 ### Who am I?
 
