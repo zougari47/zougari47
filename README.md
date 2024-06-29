@@ -17,9 +17,11 @@
 
 ### Other links
 
-[![linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true)](https://www.linkedin.com/in/zougari47/)
-[![linkedin](https://go-skill-icons.vercel.app/api/icons?i=github&titles=true)](https://github.com/zougari47)
 [![linkedin](https://go-skill-icons.vercel.app/api/icons?i=gmail&titles=true)](mailto:contact@ahmedz.dev)
+[![linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true)](https://www.linkedin.com/in/zougari47/)
+[![linkedin](https://go-skill-icons.vercel.app/api/icons?i=x&titles=true)](https://x.com/zougari47)
+[![linkedin](https://go-skill-icons.vercel.app/api/icons?i=github&titles=true)](https://github.com/zougari47)
+
 
 <details>
   <summary>
