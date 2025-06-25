@@ -6,7 +6,7 @@
 
 - 💻  Full stack developer
 - 📍  Based in Morocco
-- ✉️  You can reach me by [contact@ahmedz.dev](mailto:contact@ahmedz.dev)
+- ✉️  You can reach me by [zougarii.ahmed@gmail.com](mailto:zougarii.ahmed@gmail.com)
 - 🔍 Interested in Qwik and Nest.js
 
 ### Skills & tools
@@ -17,7 +17,7 @@
 
 ### Other links
 
-[![linkedin](https://go-skill-icons.vercel.app/api/icons?i=gmail&titles=true)](mailto:contact@ahmedz.dev)
+[![linkedin](https://go-skill-icons.vercel.app/api/icons?i=gmail&titles=true)](https://www.linkedin.com/in/zougari47/)
 [![linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true)](https://www.linkedin.com/in/zougari47/)
 [![linkedin](https://go-skill-icons.vercel.app/api/icons?i=x&titles=true)](https://x.com/zougari47)
 [![linkedin](https://go-skill-icons.vercel.app/api/icons?i=github&titles=true)](https://github.com/zougari47)
