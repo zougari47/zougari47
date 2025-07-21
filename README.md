@@ -7,7 +7,7 @@
 - 💻  Full stack developer
 - 📍  Based in Morocco
 - ✉️  You can reach me by [zougarii.ahmed@gmail.com](mailto:zougarii.ahmed@gmail.com)
-- 🔍 Interested in Qwik and Nest.js
+- 🔍 Interested in Rust and Linux
 
 ### Skills & tools
 
