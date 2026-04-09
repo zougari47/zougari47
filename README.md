@@ -6,8 +6,4 @@
 - 🔍 Interested in Rust and Linux
 
 ### Skills
-
-
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,astro,react,next,svelte,tailwind&titles=true)
-<br />
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,supabase,mongo,docker,vercel,netlify&titles=true)
+![My Skilss](https://go-skill-icons.vercel.app/api/icons?i=nodejs,ts,react,tailwind,shadcn,nextjs,tanstack,astro,nestjs,drizzle,postgresql,betterauth,rust,docker,git&titles=true&theme=light&perline=5)
