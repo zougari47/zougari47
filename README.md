@@ -3,10 +3,10 @@
 - 💻  Full-stack TypeScript, React & AI developer
 - 📍  Based in Marrakech, Morocco
 - 🌐  Website and blog: [ahmedz.dev](https://ahmedz.dev)
-- ✉️  You can reach me via [email](mailto:zougarii.ahmed@gmail.com)
-- 🔍 Interested in Rust and Linux
+- ✉️  You can reach me via [contact@ahmedz.dev](mailto:contact@ahmedz.dev)
+- 🔍  Interested in Rust and Linux
 
-## Skills
+## Stack
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,ts,react,tailwind,shadcn,nextjs,tanstack,astro,nestjs,drizzle,postgresql,betterauth,rust,docker,git&titles=true&theme=light&perline=5)
 
 ## Projects
